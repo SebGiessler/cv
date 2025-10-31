@@ -67,9 +67,8 @@ sections:
       - text: "**Hendrik Erz**, Sebastian Giessler. Language Models from the Sweatshop? Helping Researchers Avoid Ethical and Legal Issues With Off-The-Shelf Software."
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
-      - label: 2025
-        text: "Manika Lamba, **Hendrik Erz** (2025). Thanking the World: Exploring gender-based differences in acknowledgment patterns and support systems in theses. Data and Information Management 100092. \\url{https://doi.org/10.1016/j.dim.2024.100092}"
-      - text: "Alexandra Dirksen, Sebastian Giessler, **Hendrik Erz**, Martin Johns, Tobias Fiebig (2025). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+      - label: 2024
+        - text: "Alexandra Dirksen, Sebastian Giessler, **Hendrik Erz**, Martin Johns, Tobias Fiebig (2025). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
       - label: 2019
         text:
           - "**Hendrik Erz** (2019). Der lange Schatten von Gustave Le Bon. Zum sprachlichen Einfluss der Crowd Science auf die Soziologie der Gewalt. Soziologiemagazin 2/2019, 71–88. \\url{https://doi.org/10.3224/soz.v12i2.06}"
@@ -172,125 +171,32 @@ sections:
         text:
           - "**Terrorismus und der War on Terror**"
           - "Master Thesis Presentation, Studentischer Soziologiekongress, TU Chemnitz, Germany."
-  - title: Teaching
-    items:
-      - label: 2025
-        text:
-          - "**Summer Institute in Computational Social Science (SICSS)**"
-          - Lecture and workshop in ethics for CSS
-          - Lecture and workshop in Computational Text Analysis
-      - label: 2022-2024
-        text:
-          - "**Digital Strategies for the Social Sciences**"
-          - M.Sc. program; Teaching Assistant; Linköping University
-      - label: 2023
-        text:
-          - "**Summer Institute in Computational Social Science (SICSS)**"
-          - Lecture and workshop in Computational Text Analysis
-      - label: 2021-2023
-        text:
-          - "**Logic of Social Inquiry**"
-          - M.Sc. program; Teaching Assistant; Linköping University
-      - label: 2018-2019
-        text:
-          - "**Introduction to Political Science**"
-          - B.A. program; Teacher; University of Bonn
-      - label: 2018
-        text:
-          - "**Scientific Writing**"
-          - B.A. program; Teacher; University of Bonn
-      - label: 2018
-        text:
-        - "**Introduction to Karl Marx' Capital (Reading Course)**"
-        - B.A. program; Course Director; University of Bonn
-      - label: 2015
-        text:
-          - "**Tutorial: Methods for Quantitative Sociology**"
-          - B.A. program; Teaching Assistant; University of Bonn
+  
   - title: Service
     items:
-      - text: "**Reviewer**"
-      - label: Since 2025
-        text:
-          - "Network Science"
-      - label: Since 2018
-        text:
-          - "Soziologiemagazin"
-      - text: "**Editorial Board Member**"
-      - label: 2020-2024
-        text:
-          - "Head of Editorial Board, Soziologiemagazin"
+ 
       - text: "**Organization and Organizational Assistance**"
-      - label: Since 2023
-        text:
-          - "Swedish Interdisciplinary Research School in Computational Social Science (SIRCSS), Norrköping, Sweden (with PI Jacob Habinek)"
-      - label: Since 2022
-        text:
-          - "Website administration; International Network of Analytical Sociologists (INAS)"
-      - label: 2025
-        text:
-          - "Program Chair, International Conference on Computational Social Science (IC2S2), Norrköping"
-      - label: 2025
-        text:
-          - "Summer Instititute in Computational Social Science (SICSS), Norrköping, Sweden (with PI Jacob Habinek)"
-      - label: 2024
+ 
         text:
           - "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
       - label: 2023
-        text:
-          - "Summer Instititute in Computational Social Science (SICSS), Norrköping, Sweden (with PI Jacob Habinek)"
-      - label: 2022
-        text:
-          - "IAS PhD Retreat, Norrköping, Sweden"
-      - label: 2021-2022
-        text: "IAS Salon (Institute Reading Group)"
-      - label: 2021-2022
-        text:
-          - "PhD Representative, Institute for Analytical Sociology"
-      - label: 2016
-        text:
-          - "Student Research Symposium, University of Bonn, Germany"
-  - title: Supervision
-    items:
-      - text: "Co-Supervisor, M.Sc. thesis in CSS, Sophia Grill (2024)"
-      - text: "Co-Supervisor, M.Sc. thesis in CSS, Yiqiu Wang (2023)"
-      - text: "Co-Supervisor, M.Sc. thesis in CSS, Lijun Peng (2022)"
+
   - title: Memberships
     items:
       - text:
-          - "American Sociological Association (ASA);"
-          - "International Network of Analytical Sociologists (INAS)"
-  - title: Referees
-    items:
-      - text:
-        - "Prof. Dr. Marc Keuschnigg (<marc.keuschnigg@uni-leipzig.de>)"
-        - "Prof. Dr. Jacob Habinek (<jacob.habinek@liu.se>)"
-        - "Prof. Dr. Étienne Ollion (<etienne.ollion@polytechnique.edu>)"
-        - "Prof. Dr. Peter Hedström (<peter.hedstrom@liu.se>)"
-  - title: Academic Software
-    items:
-      - label: Since 2017
-        text: "Zettlr (Project Maintainer)"
-      - label: Since 2024
-        text: "Pandoc (Contributor)"
+          - "German Society for Philosophy of Science (GWP);"
+          - "Deutsche Gesellschaft für Philosophie e.V( DGPhil);"
+          - "stsing e.V. Science and Technology Studies in and through Germany (STSing)"
+ 
   - title: Languages
     items:
       - text:
           - "German (native), English (fluent, C1),"
-          - "Swedish (Moderate, B1), French (Moderate, A2)"
-  - title: "Programming Languages & Frameworks"
-    items:
-      - label: Scientific
-        text: "Python, R, Stata, matplotlib, numpy, pandas, PyTorch, Slurm (HPC)"
-      - label: Frontend
-        text: "JavaScript/TypeScript, HTML/CSS, Vue.js"
-      - label: Backend
-        text: "Node.js, PHP, Rust, C/C++, Bash/ZSH"
+          - "Swedish (elementary, A2),"
+
 ---
 
 # Research Interests
 
-Political Sociology, Computational Social Science, Analytical Sociology,
-Computational Text Analysis/NLP,
-Legislative Debates, Policymaking, U.S. Congress,
-Science of Science, Ethics of AI
+General Philosophy of Science, Philosophy of Social Science, History & Philosophy of Science,
+Digital Humanities, Technology Ethics, Philosophy of Computing, Ethics of AI
