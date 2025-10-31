@@ -4,70 +4,59 @@
 # This template can be used to create a simple but good-looking CV based on very
 # generic information. Please have a look into the README.md of this repository
 # for a full explanation!
-name: Hendrik Erz, PhD
+name: Sebastian Gießler, M.A.
 accentColor: 0.0,0.0,0.0
 textColor: 0.0,0.0,0.0
-occupation: "Postdoc"
+occupation: "Research Associate"
 address:
-  - "Institute for Analytical Sociology (IAS)"
-  - "Linköping University"
-  - "Kopparhammaren 7"
-  - "Kungsgatan 56, Entrance 56D"
-  - "601 74 Norrköping, Sweden"
+  - "International Center for Ethics in the Sciences and Humanities (IZEW)"
+  - "University of Tübingen"
+  - "Wilhelmstr. 56"
+  - "72074 Tübingen, Germany"
 contact:
-  email: hendrik.erz@liu.se
-  orcid: 0000-0003-0775-5919
-  scholar: L8y-sWQAAAAJ
-  website: https://www.hendrik-erz.de/
-  website_title: hendrik-erz.de
-  bluesky: "hendrik-erz.de" # Without @, will be automatically added.
+  email: sebastian.giessler@izew.uni-tuebingen.de
+  orcid: 0009-0000-3220-7944
+  scholar: 0gYk3C8AAAAJ
   # NOTE: Pandoc will convert an URL with "@"-characters to citations; and their workaround does not work. So manually escape it here.
   # BUG: https://github.com/jgm/pandoc/issues/10570
-  #mastodon: "https://scholar.social/%40hendrikerz"
-  #mastodon_title: "&#0064;hendrikerz&#0064;scholar.social"
+  
 #mainfont: Liberation Sans
 #sansfont: Liberation Sans
 sections:
   - title: Education
     items:
-      - label: 2025
-        text:
-          - "**PhD in Analytical Sociology, Linköping University**"
-          - ""
-          - "**On the Record: Understanding A Century of Congressional Lawmaking Through Speech and Vote Behavior**"
-          - "Supervisors: Jacob Habinek (IAS, Linköping), Étienne Ollion (CNRS, Paris)"
       - label: 2017
-        text: M.A. in Sociology, University of Bonn
-      - label: 2014
-        text: "B.A. in History, University of Bonn (minor: Political Science)"
+        text: M.A. in Philosophy of Science, Leibniz University Hanover
+      - label: 2013
+        text: "B.A. in Cultural Anthropology/Cultural History, Friedrich-Schiller-Universität Jena (minor: Sociology)"
   - title: Extracurricular
     items:
       - label: 2021
         text:
-          - "Science of Science Summer School (S4)"
-          - "Syracuse University, New York, United States"
+          - "Big Data and Data Analytics"
+          - "IU International University, Erfurt, Germany"
   - title: Employment
     items:
-      - label: Since 2025
+      - label: Since 2023
         text:
-          - "**Researcher in Analytical Sociology**"
-          - "Institute for Analytical Sociology (IAS)"
-          - "Linköping University" 
-      - label: 2020-25
+          - "**Research Associate in Philosophy & Ethics of Robotics**"
+          - "International Center for Ethics in the Sciences and Humanities (IZEW)"
+          - "University of Tübingen" 
+      - label: 2022-23
         text:
-          - "**PhD Student in Analytical Sociology**"
-          - "Institute for Analytical Sociology (IAS)"
-          - "Linköping University"
-      - label: 2019-20
+          - "**Research Manager**"
+          - "Faculty of Natural Sciences"
+          - "MSB Medical School Berlin"
+      - label: 2018-20
         text:
-          - "**Researcher in Machine Learning / Artificial Intelligence**"
-          - "Institute for Peace Research and Security Policy (IFSH)"
-          - "University of Hamburg"
-      - label: 2017-19
+          - "**Researcher in Ethics of Automated Systems**"
+          - "AlgorithmWatch gGmbH"
+          - "Berlin"
+      - label: 2015
         text:
-          - "**Research Assistant Domestic Policy / Digitalization**"
-          - "Department for Political Science and Sociology"
-          - "University of Bonn"
+          - "**Research Assistant Higher Education Research**"
+          - "German Centre for Higher Education Research and Science Studies (DZHW) "
+          - "Hanover"
   - title: Publications
     items:
       # Manuscripts in Preparation
