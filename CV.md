@@ -63,17 +63,12 @@ sections:
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
       - label: 2024
-        - text: "Alexandra Dirksen, Sebastian Giessler, **Hendrik Erz**, Martin Johns, Tobias Fiebig (2025). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+        - text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
       - label: 2019
         text:
-          - "**Hendrik Erz** (2019). Der lange Schatten von Gustave Le Bon. Zum sprachlichen Einfluss der Crowd Science auf die Soziologie der Gewalt. Soziologiemagazin 2/2019, 71–88. \\url{https://doi.org/10.3224/soz.v12i2.06}"
-          - "(*\"The long shadow of Gustave Le Bon. On the linguistic influence of Crowd Science on the Sociology of Violence.\"*)"
-      # Books and Book chapters
-      - text: "**Books and Book Chapters**"
-      - label: 2025
-        text: "**Hendrik Erz** (2025). On the Record: Understanding a Century of Congressional Lawmaking through Speech and Vote Behavior. Linköping University Press. \\url{https://doi.org/10.3384/9789181182828}"
-      - label: 2018
-        text: "**Hendrik Erz** (2018). Karl Marx und das digitale Zeitalter, in: Klasse, Kapital und Revolution. 200 Jahre Marx. Dietz, Bonn, pp. 145–156."
+          - "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische
+Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden} Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
+ 
       # Other Publications
       - text: "**Other Publications**"
       - label: 2023
@@ -170,11 +165,11 @@ sections:
   - title: Service
     items:
  
-      - text: "**Organization and Organizational Assistance**"
- 
+      - text: "**Organisation and Organisational Assistance**"
+     - label: 2024
         text:
           - "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
-      - label: 2023
+      
 
   - title: Memberships
     items:
