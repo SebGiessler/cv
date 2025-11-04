@@ -58,7 +58,7 @@ sections:
           - "German Centre for Higher Education Research and Science Studies (DZHW) "
           - "Hanover"
 
-        \pagebreak
+          
   - title: Publications
     items:
 
