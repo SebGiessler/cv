@@ -74,12 +74,18 @@ sections:
       # Other Publications
       - text: "**Other Publications**"
       - label: 2024
-        text: "Aline Franzke, **Sebastian Gießler** (2024). The Role of Ethics in Shaping Robotics Development. Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"
+      -  text: 
+      - "Aline Franzke, **Sebastian Gießler** (2024). The Role of Ethics in Shaping Robotics Development. 
+      -  Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"
       - label: 2020
-        text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) AI Ethics Guidelines Global Inventory. AlgorithmWatch, Berlin.\\url{https://inventory.algorithmwatch.org/} (accessed 04.11.2025)"
-        text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) In the Realm of Paper Tigers–Exploring the Failings of AI Ethics Guidelines. AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/} (accessed 04.11.2025)"
-        text: "Sebastian Stiller, Jule Jäger, **Sebastian Gießler** (2020) Automatisierte Entscheidungen und Künstliche Intelligenz im Personalmanagement. Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
-        text: "**Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
+      -  text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) AI Ethics Guidelines Global Inventory. 
+      -  AlgorithmWatch, Berlin. \\url{https://inventory.algorithmwatch.org/} (accessed 04.11.2025)"
+      -  text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) In the Realm of Paper Tigers–Exploring the Failings of AI Ethics Guidelines. 
+      -  AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/} (accessed 04.11.2025)"
+      -  text: "Sebastian Stiller, Jule Jäger, **Sebastian Gießler** (2020) Automatisierte Entscheidungen und Künstliche Intelligenz im Personalmanagement. 
+      -  Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin. 
+      -  \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
+      -  text: "**Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist - -  -  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
       - label: 2018
         text: "**Sebastian Gießler** (2018). Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik. Rezension. Soziologiemagazin 01/2018."
       
@@ -113,10 +119,10 @@ sections:
   
   - title: Service
     items:
-       - text: "**Organisation and Organisational Assistance**"
+    - text: "**Organisation and Organisational Assistance**"
     -label: 2024
-    text:
-          - "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
+  - text: 
+         - "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
       
 
   - title: Memberships
