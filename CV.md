@@ -27,9 +27,9 @@ sections:
   - title: Education
     items:
       - label: 2017
-        text: M.A. in Philosophy of Science, Leibniz Universität Hanover
+        text: M.A. in Philosophy of Science, Leibniz University Hanover
       - label: 2013
-        text: "B.A. in Cultural Anthropology/Cultural History, Friedrich-Schiller-Universität Jena (minor: Sociology)"
+        text: "B.A. in Cultural Anthropology/Cultural History, University of Jena (minor: Sociology)"
   - title: Extracurricular
     items:
       - label: 2021
@@ -82,11 +82,11 @@ sections:
         text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) AI Ethics Guidelines Global Inventory. 
          AlgorithmWatch, Berlin. \\url{https://inventory.algorithmwatch.org/} (accessed 04.11.2025)"
       -  text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) In the Realm of Paper Tigers–Exploring the Failings of AI Ethics Guidelines. 
-      -  AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/} 
-      - (accessed 04.11.2025)"
+          AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/} 
+          (accessed 04.11.2025)"
       -  text: "Sebastian Stiller, Jule Jäger, **Sebastian Gießler** (2020) Automatisierte Entscheidungen und Künstliche Intelligenz im Personalmanagement. 
-      -  Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin. 
-      -  \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
+          Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin. 
+          \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
       -  text: "**Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
       - label: 2018
         text: "**Sebastian Gießler** (2018). Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik. Rezension. Soziologiemagazin 01/2018."
