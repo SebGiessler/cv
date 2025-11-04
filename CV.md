@@ -9,7 +9,7 @@ accentColor: 0.0,0.0,0.0
 textColor: 0.0,0.0,0.0
 occupation: "Research Associate"
 address:
-  - "International Center for Ethics 
+  - "International Center for Ethics \
     in the Sciences and Humanities (IZEW)"
   - "University of Tübingen"
   - "Wilhelmstr. 56"
