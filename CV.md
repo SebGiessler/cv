@@ -9,7 +9,7 @@ accentColor: 0.0,0.0,0.0
 textColor: 0.0,0.0,0.0
 occupation: "Research Associate"
 address:
-  - "International Center for Ethics in the Sciences and Humanities (IZEW)"
+  - "International Center for Ethics\newline in the Sciences and Humanities (IZEW)"
   - "University of Tübingen"
   - "Wilhelmstr. 56"
   - "72074 Tübingen, Germany"
@@ -57,16 +57,18 @@ sections:
           - "**Research Assistant in Higher Education Research**"
           - "German Centre for Higher Education Research and Science Studies (DZHW) "
           - "Hanover"
+
+        \pagebreak
   - title: Publications
     items:
 
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
       - label: 2024
-        -text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+
       - label: 2019
-        text:
-          - "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden} Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
+        text: "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
  
       # Other Publications
       - text: "**Other Publications**"
