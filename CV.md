@@ -98,23 +98,23 @@ sections:
           - "**Taming Rogue Ethics: The Case for a Unified and Fair IRB Procedure**"
           - "STS-hub.de Conference, Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen, Germany"
      - label: 2019
-        text: 
+       text: 
           - "**Ethische Chancen und Risiken des zunehmenden Einsatzes Künstlicher Intelligenz im Personalmanagement.**"
           - "8. Wittenberger Führungskolloquium. Wittenberg Zentrum für Globale Ethik."
      - label: 2018
-        text:
+       text:
           - "**Legitimationskrisen und wissenschaftliche Glaubwürdigkeit. Herausforderung Objektivität?**"
           - "31. DGV-Studierendentagung UTOPIA – Sollen? Können? Dürfen?, Friedrich-Schiller-Universität (FSU) Jena, Germany"
      - label: 2017
-        text:
+       text:
           - "**Qualitative Sozialforschung im Zeitalter von Social Data Science. Ein endgültiger Sieg des sozialen Reduktionismus?**"
           - "Master Thesis Presentation, Studentischer Soziologiekongress, TU Chemnitz, Germany."
   
   - title: Service
     items:
        - text: "**Organisation and Organisational Assistance**"
-     - label: 2024
-         text:
+    -label: 2024
+    text:
           - "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
       
 
