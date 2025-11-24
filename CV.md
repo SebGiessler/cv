@@ -9,8 +9,8 @@ accentColor: 0.0,0.0,0.0
 textColor: 0.0,0.0,0.0
 occupation: "Research Associate"
 address:
-  - "International Center for Ethics 
-  -  in the Sciences and Humanities (IZEW)"
+  - "International Center for Ethics"
+  - "in the Sciences and Humanities (IZEW)"
   - "University of Tübingen"
   - "Wilhelmstr. 56"
   - "72074 Tübingen, Germany"
@@ -68,9 +68,9 @@ sections:
       - label: 2024
         text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
 
-      - label: 2019
+      - label: 2015
         text: "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
- 
+
       # Other Publications
       - text: "**Other Publications**"
       - label: 2024
@@ -80,14 +80,14 @@ sections:
       - text: Sebastian Gießler (2020) Was ist automatisiertes Personalmanagement? Hintergrundtext. AlgorithmWatch, Berlin.
       - label: 2020
         text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) AI Ethics Guidelines Global Inventory. 
-         AlgorithmWatch, Berlin. \\url{https://inventory.algorithmwatch.org/} (accessed 04.11.2025)"
+          AlgorithmWatch, Berlin. \\url{https://inventory.algorithmwatch.org/} (accessed 04.11.2025)"
       - text: "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) In the Realm of Paper Tigers–Exploring the Failings of AI Ethics Guidelines. 
           AlgorithmWatch, Berlin. \\url{https://algorithmwatch.org/en/ai-ethics-guidelines-inventory-upgrade-2020/} 
           (accessed 04.11.2025)"
       - text: "Sebastian Stiller, Jule Jäger, **Sebastian Gießler** (2020) Automatisierte Entscheidungen und Künstliche Intelligenz im Personalmanagement. 
           Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin. 
           \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
-      - text: "**Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
+      - text: "**Sebastian Gießler**, Matthias Spielkamp (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
       - label: 2018
         text: "**Sebastian Gießler** (2018). Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik. Rezension. Soziologiemagazin 01/2018."
       
@@ -103,7 +103,7 @@ sections:
        text:
           - "**Language Models from the Sweatshop? Towards Guidelines For CSS Researchers to Avoid Ethical and Legal Issues With Off-The-Shelf Software.** (Poster)"
           - "International Conference on Computational Social Sciences (IC2S2), Copenhagen, Denmark"
-       text:
+     - text:
           - "**Taming Rogue Ethics: The Case for a Unified and Fair IRB Procedure**"
           - "STS-hub.de Conference, Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen, Germany"
      - label: 2019
