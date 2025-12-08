@@ -63,9 +63,11 @@ sections:
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
       - label: 2024
-        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. 
+              *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
       - label: 2015
-        text: "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
+        text: "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. 
+                Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
       # Other Publications
       - text: "**Other Publications**"
       - label: 2024
@@ -73,7 +75,7 @@ sections:
           "Aline Franzke, **Sebastian Gießler** (2024). The Role of Ethics in Shaping Robotics Development.
           Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"
       - label: 2021
-      - text: Sebastian Gießler (2020) Was ist automatisiertes Personalmanagement? Hintergrundtext. AlgorithmWatch, Berlin.
+      - text: "**Sebastian Gießler** (2020) Was ist automatisiertes Personalmanagement? Hintergrundtext. AlgorithmWatch, Berlin."
       - label: 2020
         text:
           "**Sebastian Gießler**, Leonard Haas, Veronika Thiel (2020) AI Ethics Guidelines Global Inventory.
@@ -86,11 +88,14 @@ sections:
           "Sebastian Stiller, Jule Jäger, **Sebastian Gießler** (2020) Automatisierte Entscheidungen und Künstliche Intelligenz im Personalmanagement.
           Ein Leitfaden zur Überprüfung essenzieller Eigenschaften KI-basierter Systeme für Betriebsräte und andere Personalvertretungen. AlgorithmWatch, Berlin.
           \\url{https://algorithmwatch.org/project/auto-hr/leitfaden/} (accessed 30.03.21)"
-      - text: "**Sebastian Gießler**, Matthias Spielkamp (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
+      - text: "Matthias Spielkamp, **Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
       - label: 2018
         text: "**Sebastian Gießler** (2018). Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik. Rezension. Soziologiemagazin 01/2018."
   - title: Conference and Workshop Presentations
     items:
+      - label: 2025
+          - "Narrative und Verantwortung: Ethische Perspektiven auf Wissenschaftskommunikatiton"
+          - "transformativ 2025 - Sharing Perspectives on Artificial Intelligence"
       - label: 2024
         text:
           - "**Language Models from the Sweatshop? Helping Researchers Avoid Ethical and Legal Issues With Off-The-Shelf Software**"
@@ -117,6 +122,8 @@ sections:
   - title: Service
     items:
       - text: "**Organisation and Organisational Assistance**"
+      - label: 2025
+        text: "Session Über Roboter (at transformativ 2025)"
       - label: 2024
         text: "Session Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)"
   - title: Memberships
