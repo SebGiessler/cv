@@ -26,7 +26,7 @@ contact:
 sections:
   - title: Education
     items:
-      - label: 2017
+      - label: 2016
         text: M.A. in Philosophy of Science, Leibniz University Hanover
       - label: 2013
         text: "B.A. in Cultural Anthropology/Cultural History, University of Jena (minor: Sociology)"
