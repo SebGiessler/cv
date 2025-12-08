@@ -34,7 +34,7 @@ sections:
     items:
       - label: 2025
         text: 
-          - "Sustainability in the digital age: Environmental Impacts of AI Systems**"
+          - "Sustainability in the digital age: Environmental Impacts of AI Systems"
           - "OpenHPI - Hasso Plattner Institute for Digital Engineering, University of Potsdam" 
       - label: 2021
         text:
