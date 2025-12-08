@@ -27,18 +27,18 @@ sections:
   - title: Education
     items:
       - label: 2016
-        text: M.A. in Philosophy of Science, Leibniz University Hanover
+        text: M.A. in **Philosophy of Science**, Leibniz University Hanover
       - label: 2013
-        text: "B.A. in Cultural Anthropology/Cultural History, University of Jena (minor: Sociology)"
+        text: "B.A. in **Cultural Anthropology/Cultural History (minor: Sociology)**, University of Jena"
   - title: Extracurricular
     items:
       - label: 2025
         text: 
-          - "Sustainability in the digital age: Environmental Impacts of AI Systems"
+          - "**Sustainability in the digital age: Environmental Impacts of AI Systems**"
           - "OpenHPI - Hasso Plattner Institute for Digital Engineering, University of Potsdam" 
       - label: 2021
         text:
-          - "Big Data and Data Analytics"
+          - "**Big Data and Data Analytics**"
           - "IU International University, Erfurt, Germany"
   - title: Employment
     items:
