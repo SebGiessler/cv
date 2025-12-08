@@ -32,6 +32,10 @@ sections:
         text: "B.A. in Cultural Anthropology/Cultural History, University of Jena (minor: Sociology)"
   - title: Extracurricular
     items:
+      - label: 2025
+        text: 
+          - "Sustainability in the digital age: Environmental Impacts of AI Systems**"
+          - "OpenHPI - Hasso Plattner Institute for Digital Engineering, University of Potsdam" 
       - label: 2021
         text:
           - "Big Data and Data Analytics"
@@ -58,6 +62,7 @@ sections:
           - "**Research Assistant in Higher Education Research**"
           - "German Centre for Higher Education Research and Science Studies (DZHW) "
           - "Hanover"
+
   - title: Publications
     items:
       # Peer Reviewed Publications
