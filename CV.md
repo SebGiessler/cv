@@ -94,8 +94,8 @@ sections:
   - title: Conference and Workshop Presentations
     items:
       - label: 2025
-          - "Narrative und Verantwortung: Ethische Perspektiven auf Wissenschaftskommunikatiton"
-          - "transformativ 2025 - Sharing Perspectives on Artificial Intelligence"
+          - "Narrative und Verantwortung - Ethische Perspektiven auf Wissenschaftskommunikation"
+          - "transformativ 2025 – Sharing Perspectives on Artificial Intelligence"
       - label: 2024
         text:
           - "**Language Models from the Sweatshop? Helping Researchers Avoid Ethical and Legal Issues With Off-The-Shelf Software**"
