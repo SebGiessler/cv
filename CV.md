@@ -96,11 +96,12 @@ sections:
       - text: "Matthias Spielkamp, **Sebastian Gießler** (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt? Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. \\url{https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf}"
       - label: 2018
         text: "**Sebastian Gießler** (2018). Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik. Rezension. Soziologiemagazin 01/2018."
+ 
   - title: Conference and Workshop Presentations
     items:
       - label: 2025
-          - "Narrative und Verantwortung - Ethische Perspektiven auf Wissenschaftskommunikation"
-          - "transformativ 2025 – Sharing Perspectives on Artificial Intelligence"
+          - "**Narrative und Verantwortung - Ethische Perspektiven auf Wissenschaftskommunikation**"
+          - "transformativ 2025 – Sharing Perspectives on Artificial Intelligence (in session Über Roboter)"
       - label: 2024
         text:
           - "**Language Models from the Sweatshop? Helping Researchers Avoid Ethical and Legal Issues With Off-The-Shelf Software**"
