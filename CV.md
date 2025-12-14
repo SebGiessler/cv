@@ -76,9 +76,7 @@ sections:
       # Other Publications
       - text: "**Other Publications**"
       - label: 2024
-      - text:
-          "Aline Franzke, **Sebastian Gießler** (2024). The Role of Ethics in Shaping Robotics Development.
-          Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"
+      - text: "Aline Franzke, **Sebastian Gießler** (2024). The Role of Ethics in Shaping Robotics Development. Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"
       - label: 2021
       - text: "**Sebastian Gießler** (2020) Was ist automatisiertes Personalmanagement? Hintergrundtext. AlgorithmWatch, Berlin."
       - label: 2020
