@@ -55,8 +55,9 @@ sections:
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
       - label: 2026
+        text: "**Sebastian Gießler**, Aline Franzke. Das Erzählen von Maschinen: Ethische Implikationen von Kommunikation über Robotik. Tagungsband Risikonarrative im Feld Privacy, Surveillance und Datenschutz. Nomos. (forthcoming 2026)"
         text: "Tiago Heinrich, **Sebastian Giessler**, David Klein, Alexandra Dirksen. FAIR Enough? Assessing Open Science Practices on a Top-Tier Security & Privacy Conference.
-              MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium"
+              MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium. (forthcoming 2026)"
       - label: 2024
         text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig. Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. 
               *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
