@@ -7,15 +7,12 @@
 name: Sebastian Gießler, M.A.
 accentColor: 0.0,0.0,0.0
 textColor: 0.0,0.0,0.0
-occupation: "Research Associate"
+occupation: "Researcher"
 address:
-  - "International Center for Ethics"
-  - "in the Sciences and Humanities (IZEW)"
-  - "University of Tübingen"
-  - "Wilhelmstr. 56"
-  - "72074 Tübingen, Germany"
+  - "Hindenburgdamm 62"
+  - "12203 Berlin, Germany"
 contact:
-  email: sebastian.giessler@izew.uni-tuebingen.de
+  email: s.giessler@mailbox.org
   orcid: 0009-0000-3220-7944
   scholar: 0gYk3C8AAAAJ
   # NOTE: Pandoc will convert an URL with "@"-characters to citations; and their workaround does not work. So manually escape it here.
@@ -30,29 +27,19 @@ sections:
         text: M.A. in **Philosophy of Science**, Leibniz University Hanover
       - label: 2013
         text: "B.A. in **Cultural Anthropology/Cultural History (minor: Sociology)**, University of Jena"
-  - title: Extracurricular
-    items:
-      - label: 2025
-        text: 
-          - "**Sustainability in the digital age: Environmental Impacts of AI Systems**"
-          - "OpenHPI - Hasso Plattner Institute for Digital Engineering, University of Potsdam" 
-      - label: 2021
-        text:
-          - "**Big Data and Data Analytics**"
-          - "IU International University, Erfurt, Germany"
   - title: Employment
     items:
-      - label: Since 2023
+      - label: 07.2023 - 04.2026
         text:
           - "**Research Associate in Philosophy & Ethics of Robotics**"
           - "International Center for Ethics in the Sciences and Humanities (IZEW)"
           - "University of Tübingen"
-      - label: 2022-23
+      - label: 08.2022 - 06.2023
         text:
           - "**Research Manager**"
           - "Faculty of Natural Sciences"
           - "MSB Medical School Berlin"
-      - label: 2018-20
+      - label: 10.2018 - 04.2020
         text:
           - "**Researcher in Ethics of Automated Decision Making Systems**"
           - "AlgorithmWatch gGmbH"
@@ -67,11 +54,14 @@ sections:
     items:
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
+      - label: 2026
+        text: "Tiago Heinrich, **Sebastian Giessler**, David Klein, Alexandra Dirksen. FAIR Enough? Assessing Open Science Practices on a Top-Tier Security & Privacy Conference.
+              MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium"
       - label: 2024
-        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig (2024). Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. 
+        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig. Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. 
               *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
       - label: 2015
-        text: "**Sebastian Gießler** (2015). Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. 
+        text: "**Sebastian Gießler**. Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. 
                 Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
       # Other Publications
       - text: "**Other Publications**"
@@ -97,6 +87,10 @@ sections:
 
   - title: "**Conference and Workshop Presentations**"
     items:
+      - label: 2026
+        text: 
+          - "**Responsible Research in Security & Privacy: Negotiating Scientific Practices, Regulations, and Institutional Norms**"
+          - "STS NL Conference 2026, University of Twente" 
       - label: 2025
         text:  
           - "**Narrative und Verantwortung - Ethische Perspektiven auf Wissenschaftskommunikation**"
