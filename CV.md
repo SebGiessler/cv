@@ -29,17 +29,17 @@ sections:
         text: "B.A. in **Cultural Anthropology/Cultural History (minor: Sociology)**, University of Jena"
   - title: Employment
     items:
-      - label: 07.2023 - 04.2026
+      - label: 2023 - 2026
         text:
           - "**Research Associate in Philosophy & Ethics of Robotics**"
           - "International Center for Ethics in the Sciences and Humanities (IZEW)"
           - "University of Tübingen"
-      - label: 08.2022 - 06.2023
+      - label: 2022 - 2023
         text:
           - "**Research Manager**"
           - "Faculty of Natural Sciences"
           - "MSB Medical School Berlin"
-      - label: 10.2018 - 04.2020
+      - label: 2018 - 2020
         text:
           - "**Researcher in Ethics of Automated Decision Making Systems**"
           - "AlgorithmWatch gGmbH"
@@ -55,14 +55,12 @@ sections:
       # Peer Reviewed Publications
       - text: "**Peer-Reviewed Articles**"
       - label: 2026
-        text: "**Sebastian Gießler**, Aline Franzke. Das Erzählen von Maschinen: Ethische Implikationen von Kommunikation über Robotik. Tagungsband Risikonarrative im Feld Privacy, Surveillance und Datenschutz. Nomos. (forthcoming 2026)"
-        text: "Tiago Heinrich, **Sebastian Giessler**, David Klein, Alexandra Dirksen. FAIR Enough? Assessing Open Science Practices on a Top-Tier Security & Privacy Conference.
-              MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium. (forthcoming 2026)"
+      - text: "**Sebastian Gießler**, Aline Franzke. Das Erzählen von Maschinen: Ethische Implikationen von Kommunikation über Robotik. Tagungsband Risikonarrative im Feld Privacy, Surveillance und Datenschutz. Nomos. (forthcoming 2026)"
+      - text: "Tiago Heinrich, **Sebastian Giessler**, David Klein, Alexandra Dirksen. FAIR Enough? Assessing Open Science Practices on a Top-Tier Security & Privacy Conference. MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium. (forthcoming 2026)"
       - label: 2024
-        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig. Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards. 
-              *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
+        text: "Alexandra Dirksen, **Sebastian Giessler**, Hendrik Erz, Martin Johns, Tobias Fiebig. Don’t Patch the Researcher, Patch the Game: A Systematic                   Approach for Responsible Research via Federated Ethics Boards. *Proceedings of the New Security Paradigms Workshop*, 126–141. New York, NY, USA: Association for Computing Machinery. \\url{https://doi.org/10.1145/3703465.3703475}"
       - label: 2015
-        text: "**Sebastian Gießler**. Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. 
+      - text: "**Sebastian Gießler**. Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden. 
                 Soziologiemagazin 1/2015, 56–80. \\url{(https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134)}"
       # Other Publications
       - text: "**Other Publications**"
@@ -102,7 +100,7 @@ sections:
           - "Conference of the Nordic Sociological Association (NSA) 2024, Norrköping, Sweden (in session Pretrained models and Sociology)"
       - label: 2023
         text:
-          - "**Language Models from the Sweatshop? Towards Guidelines For CSS Researchers to Avoid Ethical and Legal Issues With Off-The-Shelf Software.** (Poster)"
+          - "**Language Models from the Sweatshop? Towards Guidelines For CSS Researchers to Avoid Ethical and Legal Issues With Off-The-Shelf Software.**                   (Poster)"
           - "International Conference on Computational Social Sciences (IC2S2), Copenhagen, Denmark"
       - text:
           - "**Taming Rogue Ethics: The Case for a Unified and Fair IRB Procedure**"
@@ -122,6 +120,8 @@ sections:
   - title: Service
     items:
       - text: "**Organisation and Organisational Assistance**"
+      - label: 2026
+        text: "Program Committee for the MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium."
       - label: 2025
         text: "Session Über Roboter (at transformativ 2025)"
       - label: 2024
